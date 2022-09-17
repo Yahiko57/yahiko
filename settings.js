@@ -24,7 +24,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "doi" //namabot kalian
+global.botname = "Yahiko" //namabot kalian
 global.ownername= "ᴹᴿ᭄ yahiko ×፝֟͜×" //nama kalian
 global.myweb ="https://api.neofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/Ofc" //bebas asal jan hapus
